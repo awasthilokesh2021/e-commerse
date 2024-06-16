@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    
+    padding: 2px 4px;
+    background-color: rgb(233, 91, 122);
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    color: #ffff;
+    margin: 0 31px;
+
+}
+
+.left span{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.right .rightclass{
+    text-decoration: none;
+    list-style: none;
+    padding: 4px 18px;
+    font-size: 18px;
+    color: black;
+}
+
+.right .rightclass:hover{
+    background-color: rgb(25, 25, 58);
+    background-size: cover;
+    color: #ffff;
+}
+
+.itemcount{
+    color: black;
+    font-size: 10px;
+    position: absolute;
+    left: 15px;
+    top: 3px;
+    z-index: 100;
+}
+
+.inputbar{
+    padding: 0 7px;
+}

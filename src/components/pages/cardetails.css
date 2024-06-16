@@ -1,0 +1,16 @@
+
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card_details{
+    width: 20vw;
+    height: 50vh;
+}
+
+.card_details img{
+    width: 100px;
+    align-self: center;
+}
