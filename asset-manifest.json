@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/awasthilokesh2021/e-commerse/static/css/main.8d894792.css",
+    "main.js": "/awasthilokesh2021/e-commerse/static/js/main.a03974e2.js",
+    "index.html": "/awasthilokesh2021/e-commerse/index.html",
+    "main.8d894792.css.map": "/awasthilokesh2021/e-commerse/static/css/main.8d894792.css.map",
+    "main.a03974e2.js.map": "/awasthilokesh2021/e-commerse/static/js/main.a03974e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d894792.css",
+    "static/js/main.a03974e2.js"
+  ]
+}
